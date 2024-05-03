@@ -11,12 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.4.3+1  
-  package_test:
-    path: packages/package_test
-  package_view:
-    path: packages/package_view 
-
+  dio: ^5.4.3+1 
 dev_dependencies:
   flutter_test:
     sdk: flutter
